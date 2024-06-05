@@ -132,7 +132,7 @@ fun HeroListItem(
             Spacer(Modifier.width(16.dp))
             Box(
                 modifier = Modifier
-                    .size(72.dp)
+                    .size(90.dp)
                     .clip(RoundedCornerShape(8.dp))
 
             ) {
